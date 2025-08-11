@@ -46,6 +46,11 @@ const fornecedores = [
         telefone: "+554185068573"
     },
     {
+        nome: "Iplay Parts- Bacacheri",
+        descricao: "Peças",
+        telefone: "+5541998543569"
+    },
+    {
         nome: "JB Parts",
         descricao: "Peças",
         telefone: "+554198881127"
